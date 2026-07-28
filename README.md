@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/phuoc-d/Leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/phuoc-d/Leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/phuoc-d/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/phuoc-d/Leetcode/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/phuoc-d/Leetcode/tree/master/0100-same-tree) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/phuoc-d/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
