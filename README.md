@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/phuoc-d/Leetcode/tree/master/0242-valid-anagram) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/phuoc-d/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
